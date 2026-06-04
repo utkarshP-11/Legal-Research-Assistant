@@ -1,0 +1,13 @@
+# Ignore the virtual environment folder
+venv/
+env/
+
+# Ignore the environment variables file (API Keys)
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore the local vector database
+faiss-store-legal.pkl
