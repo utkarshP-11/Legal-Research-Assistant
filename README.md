@@ -5,6 +5,12 @@ An AI-powered Legal Research Assistant built using Retrieval-Augmented Generatio
 > **Disclaimer:** This tool is for educational and research purposes only and does not constitute professional legal advice.
 
 ---
+## Application Preview
+<img width="1741" height="797" alt="image" src="https://github.com/user-attachments/assets/454f4982-4a7f-4fe0-8e63-eb8cbe2f80b4" />
+
+
+---  
+
 
 ## Features
 
